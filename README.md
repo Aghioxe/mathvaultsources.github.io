@@ -1,2 +1,2 @@
-# mathvaultsource-
+# mathvaultsource
 Проектный сайт с математическими источниками
